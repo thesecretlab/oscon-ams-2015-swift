@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (3.1.0)
+  - SQLite.swift (1.0.0)
+  - SwiftyJSON (2.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - SQLite.swift (from `https://github.com/stephencelis/SQLite.swift.git`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SQLite.swift:
+    :git: https://github.com/stephencelis/SQLite.swift.git
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SQLite.swift:
+    :commit: c9d3082d1f5ddc2e55a792a8eb1a677b8a1b15f5
+    :git: https://github.com/stephencelis/SQLite.swift.git
+  SwiftyJSON:
+    :commit: 5f5d00dbdcd256600a250765d9f674964080ceee
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 415bd7f56197722978759078486689f7ef913dce
+  SQLite.swift: 3bb75f5a650f08673276bc6d3fb1de1b542b8f4d
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+
+COCOAPODS: 0.39.0
